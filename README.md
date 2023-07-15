@@ -3,6 +3,6 @@
 # 📚 Cursando: Curso Desenvolvimento Web - Programador Br
 # 💻 Estudando: javaScrip, CSS e HTML.
 # 📖 Contate-me no email: Barretu.Samuel@gmail.com
-<hr>
+
 
 
