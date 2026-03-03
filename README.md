@@ -1,40 +1,28 @@
 # 👋 Olá, eu sou o Samuel
 
-📌 Atualmente estudando:
+💻 Desenvolvedor em formação  
+📍 Foco em desenvolvimento web
+🚀 Construindo projetos práticos e evoluindo para React  
 
-- JavaScript & React.js
+## 🛠️ Tecnologias
+- JavaScript
 - HTML
 - CSS
----
-## 📚 Formação e Estudos
+- Git
+- SQL (SQL Server)
 
-- Fullstack Developer - Rocketseat (em andamento)
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/>
+</p>
 
-## 🛠 Tech Stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql)
-
-</div>
-
----
-
-## 🚀 Minhas Principais Stacks
-
-```text
-JavaScript  ████████████████████ 40%
-React       ████████████████ 30%
-HTML        ████████████ 15%
-CSS         ██████████ 10%
-```
----
+## 📚 Atualmente estudando
+- Fullstack - Rocketseat
+- Estrutura de dados e lógica
 
 ## 📊 Contato
 
